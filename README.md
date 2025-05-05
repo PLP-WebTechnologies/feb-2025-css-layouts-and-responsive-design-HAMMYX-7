@@ -1,12 +1,12 @@
 # CSS Layouts and Responsive Design
 
-## Objectives
+## Objectives.
 
 Implement Flexbox and Grid for layout design.
 Make the webpage responsive using media queries.
 Ensure proper alignment and spacing.
 
-## Instructions
+## Instructions.
 
 - use Flexbox or CSS Grid.
 - Add a navigation bar and structure the content.
@@ -17,7 +17,7 @@ Ensure proper alignment and spacing.
 >  - navigation bar
 >  - media queries
 
-# Tasks
+# Tasks.
 
 - Apply Flexbox or Grid for layout.
 - Make the page responsive.
